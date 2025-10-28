@@ -4,3 +4,6 @@ pipenv install django
 pipenv shell
 3. 
 django-admin startproject config .
+4.
+python manage.py startapp todo
+5.
